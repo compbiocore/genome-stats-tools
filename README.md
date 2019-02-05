@@ -1,2 +1,2 @@
-# entrez_get_fasta
+# entrez_query
 Uses biopython to pull sequences from ncbi
